@@ -1,5 +1,7 @@
-This research examines the paradox in AI infrastructure where despite severe GPU shortages and massive capital investment ($315B+ in 2025), over 85% of existing GPU capacity sits idle. The study analyzes three key dimensions: GPU allocation inefficiency and marketplace dynamics, unique depreciation patterns versus traditional infrastructure assets, and systematic underinvestment in critical enabling infrastructure.
+# Concept
 
-The research maps capital flows across the AI infrastructure stack, identifying dramatic imbalances where compute layers are oversaturated while networking, orchestration, and energy infrastructure remain critically underfunded. This creates clear arbitrage opportunities in software-driven efficiency plays rather than pure capacity expansion.
+## Research Idea
 
-The analysis will evaluate emerging business models and solutions targeting specific pain points, from GPU marketplaces to serverless platforms, with focus on identifying defensible approaches that can capture value from reducing infrastructure inefficiency rather than adding raw compute capacity.
+A comprehensive analysis of AI infrastructure investment opportunities, pain points, and market dynamics focusing on GPU allocation efficiency, depreciation patterns, and infrastructure bottlenecks in 2024-2025.
+
+[This section will be enhanced by Oslo]
